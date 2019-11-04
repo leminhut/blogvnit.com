@@ -1,0 +1,10 @@
+a:hover {cursor : url(&quot;https://lh4.googleusercontent.com/-OzoqkxhEd2c/WrRwBntnciI/AAAAAAAABOA/2VSpdmfP22E5PzAssjYRGtjyHjDQqDr0ACLcBGAs/s1600/khoirom4.png&quot;), progress;} HTML,BODY{cursor: url(&quot;https://lh4.googleusercontent.com/-KbJ7U5FZ4aI/WrRwAwjMyDI/AAAAAAAABN4/OVT0WhVJwhEw839PLeQ01qbN_Jmo4dxKgCLcBGAs/s1600/khoirom3.png&quot;), progress;}
+.post{overflow:visible;position:relative;width:22.8%;float:left;margin:0 13px 25px;height:220px;border-bottom:0px solid #e9e9e9;box-shadow:0 3px 20px 0 rgba(0,0,0,.2)}
+.post-outer{margin:0 -13px}
+.title-secondary{display:none}
+.post-title{font-size:16px;margin:0 0 10px;border-bottom:0 solid #e9e9e9;padding:0 10px;line-height:24px;text-align:center}
+
+@media (max-width:1180px){.post{width:22.6%}}@media (max-width:1100px){.post{width:22.4%}}@media (max-width:1040px){.post{width:22.3%}}
+@media (max-width:1000px){.post{width:30%}}@media (max-width:840px){.post{width:30%}}@media (max-width:800px){.post{width:29.5%}}
+@media (max-width:700px){.post{width:45.5%}}@media (max-width:600px){.post{width:44.6%}}@media (max-width:500px){.post{width:94%}}
+@media (max-width:450px){.post{width:93%}}@media (max-width:350px){.post{width:91.6%}}
