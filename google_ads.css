@@ -1,0 +1,37 @@
+a:hover {cursor : url(&quot;https://lh4.googleusercontent.com/-ST3VLpIDxlA/WrRwAy76vKI/AAAAAAAABN8/2xbb1ONR5LEVZ02pwVfAt4sZvqStQeyPwCLcBGAs/s1600/khoirom2.png&quot;), progress;} 
+HTML,BODY{cursor: url(&quot;https://4.bp.blogspot.com/-z9lPu5jUSMc/WrRwA8l9rwI/AAAAAAAABN0/iJ0jwdhSmHs_tqsFGcOnvHtR5onEdI8GwCLcBGAs/s1600/khoirom1.png&quot;), progress;}
+.fb_after{border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;padding:0 4px 4px}
+.fb-save{float:right}
+p.firstcmt{float:left;padding:5px 0;width:100%;font-size:16px;color:#888;text-align:center;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:transparent;border-top: 1px dashed #ccc;-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none}
+#Label1{display:none}
+#cmt{border-bottom: 1px dash #ccc}
+.share-info { padding:2px; border:1px solid #ddd; font-size:14px; color:#999; background:#fff; border-radius:0 2px 2px 0; box-shadow:0 0 4px rgba(0,0,0,0.15); text-align:center; width:95%; margin:10px 0; }
+#npc-ga {background: #fff;width: 100%;position: relative;margin: 15px 0;display: inline-block;}
+#npc-ga { background:#fff; width:680px; position:; margin:15px 0; display:inline-block; text-align:center;max-width:100%}
+#npc-ga ul { margin:0; padding:0; }
+#npc-ga ul li { list-style-type:none; width:50%; position:relative; float:left }
+#npc-ga .ga-img { width:330px; height:179px; overflow:hidden; }
+.ga-img img { width:100%; height:100%; }
+.ga-info { text-align:left }
+.ga-info h2 { margin-top:5px; font-size:22px; font-weight:500; color:#212121; }
+.ga-info h2 a { text-decoration:none; color:#212121; font-family:&#39;Roboto&#39;,san-serif; }
+.ga-info p { margin:8px 0 8px}
+.ga-info p a { font-size:20px; color:#666; text-decoration:none; position:relative; font-family:&#39;Roboto&#39;,san-serif; }
+.ga-info p a:before { content:&quot;QC&quot;; background:green; padding:1px 3px; border-radius:3px; color:#fff; font-size:15px; display:inline-block; margin-right:5px; font-family:&#39;Roboto&#39;,sans-serif; }
+.ga-info p a:hover { text-decoration:underline; }
+.ga-link a { font-size:16px; text-decoration:none; color:#999; font-family:&#39;Roboto&#39;,san-serif; }
+.ga-link a:hover { text-decoration:underline; }
+.ga-more { margin-top:25px; }
+.ga-more a { background-color:#4e92df; border-radius:2px; box-shadow:0 0 2px 0 rgba(0,0,0,0.12),0 2px 2px 0 rgba(0,0,0,0.24); font-family:&quot;Roboto&quot;,sans-serif; font-weight:500; text-decoration:none; color:#fff; padding:10px 23px; }
+.ga-tool { position:absolute; top:-3px; right:0; }
+.ga-tool a { text-decoration:none; position:relative; margin-left:3px}
+.ga-tool a:before { font-family:fontawesome; color:#00aecd; transition:all 0.3s ease; cursor:pointer; }
+a.ga-question:before { content:&quot;\f05a&quot;; }
+a.ga-exit:before { content:&quot;\f00d&quot;; }
+a.ga-question:hover:before,a.ga-exit:hover:before { opacity:0.8; }
+a.ga-question:after { content:&#39;Quảng cáo của star út&#39;; font-size:11px; color:#212121; background:#fff; float:left; margin-right:5px; margin-top:2px; padding:1px 2px; opacity:0; visibility:hidden; transition:all 0.2s ease; }
+a.ga-question:hover:after { opacity:1; visibility:visible; }
+@media all and (max-width:1040px) {
+    #npc-ga,.none-mobile { display:none; } 
+} 
+.post-top{display:block;width:100%;border-bottom:1px solid #eee;margin-bottom:10px}.post-margin{margin-right:10px;display:inline} 
