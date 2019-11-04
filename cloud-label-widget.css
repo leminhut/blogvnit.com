@@ -1,0 +1,25 @@
+.cloud-label-widget-content .label-size:nth-of-type(10){display:none}
+.cloud-label-widget-content{display:inline-block;text-align:center}
+.cloud-label-widget-content .label-size{display:inline-block;float:center;font-size:14px;font-weight:600;line-height:normal;margin:0 5px 5px 0;opacity:1}
+.cloud-label-widget-content .label-size a{background:#fff;color:#333;float:left;line-height:100%;margin:0;padding:15px 15px;transition:all .6s;border:1px solid #ddd}
+.cloud-label-widget-content .label-size span{background:#00a2ff;color:#fff;float:left;line-height:100%;margin:0;padding:15px 15px;transition:all .6s;border:1px solid #ddd}
+.cloud-label-widget-content .label-size .label-count{background:#eee;color:#444;white-space:nowrap;display:inline-block;padding:0 15px;margin-left:-3px;height:44px;line-height:44px;font-size:13px;font-weight:600;border:1px solid #ddd}
+.Label li{position:relative;padding:5px 20px 5px 30px!important;list-style:disc;display:block;font-size:15px}
+.Label li:before{content:&quot;\f111&quot;;font-family:fontAwesome;color:#ccc;font-size:8px;margin-left:15px;position:absolute;top:9px;left:0;padding:0;text-decoration:none;margin-top:1px}
+.Label li a{color:#2D2D2D;font-family:Roboto;font-weight:700}
+.Label li:hover:before{color:#00a2ff;transition:all .6s}
+.Label li:hover span{background:#FC3931;transition:all .6s}
+.Label li span{padding:0 10px;display:block;line-height:20px;position:absolute;right:15px;top:10px;font-size:11px;background:#00a2ff;color:#fff}
+.bttn-unite a{margin:0;padding:0;border-width:0;border-color:transparent;background:transparent;font-weight:400;cursor:pointer;position:relative;font-family:Roboto;padding:5px 12px;z-index:0;overflow:hidden;border:1px solid #1d89ff;color:#1d89ff;-webkit-transition:color .3s cubic-bezier(.02,.01,.47,1),border-color .3s cubic-bezier(.02,.01,.47,1);transition:color .3s cubic-bezier(.02,.01,.47,1),border-color .3s cubic-bezier(.02,.01,.47,1)}
+.bttn-unite.bttn-primary a:before{background:#d6e3ff;-webkit-transform:translate3d(-110%,-10%,0) skewX(-20deg);transform:translate3d(-110%,-10%,0) skewX(-20deg)}
+.bttn-unite.bttn-primary a:after,.bttn-unite.bttn-primary a:before{position:absolute;top:0;left:0;width:100%;height:120%;content:&#39;&#39;;opacity:0;z-index:-1;-webkit-transition:opacity .15s cubic-bezier(.02,.01,.47,1),-webkit-transform .15s cubic-bezier(.02,.01,.47,1);transition:opacity .15s cubic-bezier(.02,.01,.47,1),-webkit-transform .15s cubic-bezier(.02,.01,.47,1);transition:transform .15s cubic-bezier(.02,.01,.47,1),opacity .15s cubic-bezier(.02,.01,.47,1);transition:transform .15s cubic-bezier(.02,.01,.47,1),opacity .15s cubic-bezier(.02,.01,.47,1),-webkit-transform .15s cubic-bezier(.02,.01,.47,1)}
+.bttn-unite.bttn-primary a:after{background:rgba(214,227,255,.7);-webkit-transform:translate3d(110%,-10%,0) skewX(-20deg);transform:translate3d(110%,-10%,0) skewX(-20deg)}
+.bttn-unite.bttn-primary a:focus,.bttn-unite.bttn-primary a:hover{box-shadow:0 1px 8px rgba(58,51,53,.3);color:#1d89ff;-webkit-transition:all .5s cubic-bezier(.02,.01,.47,1);transition:all .5s cubic-bezier(.02,.01,.47,1)}
+.bttn-unite.bttn-primary a:focus:before,.bttn-unite.bttn-primary a:hover:before{-webkit-transform:translate3d(-50%,-10%,0) skewX(-20deg);transform:translate3d(-50%,-10%,0) skewX(-20deg)}
+.bttn-unite.bttn-primary a:focus:after,.bttn-unite.bttn-primary a:focus:before,.bttn-unite.bttn-primary a:hover:after,.bttn-unite.bttn-primary a:hover:before{opacity:1;-webkit-transition:opacity .25s cubic-bezier(.02,.01,.47,1),-webkit-transform .25s cubic-bezier(.02,.01,.47,1);transition:opacity .25s cubic-bezier(.02,.01,.47,1),-webkit-transform .25s cubic-bezier(.02,.01,.47,1);transition:transform .25s cubic-bezier(.02,.01,.47,1),opacity .25s cubic-bezier(.02,.01,.47,1);transition:transform .25s cubic-bezier(.02,.01,.47,1),opacity .25s cubic-bezier(.02,.01,.47,1),-webkit-transform .25s cubic-bezier(.02,.01,.47,1)}
+.bttn-unite.bttn-primary a:focus:after,.bttn-unite.bttn-primary a:hover:after{-webkit-transform:translate3d(50%,-10%,0) skewX(-20deg);transform:translate3d(50%,-10%,0) skewX(-20deg)}
+.bttn-unite.bttn-primary a{border-color:#1d89ff;color:#1d89ff}
+.bttn-unite.bttn-primary a:focus,.bttn-unite.bttn-primary a:hover{background:#1d89ff;color:#fff}
+.bttn-unite.bttn-primary a:before{background:#006de3}
+.bttn-unite.bttn-primary a:after{background:#1d89ff}
+@media (max-width: 641px) {#Label1{ display: none }}
