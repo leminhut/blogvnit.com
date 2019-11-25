@@ -24,7 +24,6 @@ a img {border-width: 0}
 body{ background: #FFF; color: #777; height: 100%; padding: 0; "Open Sans", Roboto, sans-serif; font-size: 15px; line-height: 24px; }
 .clear { clear:both; float:none; }
 
-
 .ct-wrapper {padding:0px 0px; position:relative; margin: 0px;}
 .outer-wrapper { position: relative; padding:0px 0; margin-top:45px; }
 .header-wrapper {display: inline-block; float: left; width: 100%; -moz-box-sizing: -webkit-border-box; box-sizing: border-box; }
@@ -429,7 +428,6 @@ mark {padding:1px 4px;color:#d14;background-color:#f7f7f9;border:1px solid #e1e1
 @keyframes scroll{10%{margin-top:0}30%{margin-top:0}40%{margin-top:-40px}60%{margin-top:-40px}70%{margin-top:-80px}90%{margin-top:-80px}100%{margin-top:0}}
 .BacktoTop a{z-index:99;width:35px;height:35px;position:fixed;bottom:15px;right:15px;font-size:18px;background-color:#7596c8;color:#fff;text-align:center;line-height:35px;border-radius:3px;transition:all .3s ease}
 
-
 #overlay{display:none;z-index:99999;background:#fff;position:fixed;width:100%;height:50px;left:0;top:0;text-align:center}
 #close{position:fixed;right:8px;top:4px;border-radius:50%;padding:10px 10px;cursor:pointer;color:#999;font-size:20px}
 #search_mobile{display:none;position:fixed;z-index:4;margin:auto;width:100%;background:#FFF;color:#000}
@@ -460,13 +458,10 @@ background-size: cover;position: relative;background-color: #1f0032;}
 .ribbon-vip span::before{content:"";position:absolute;left:0;top:100%;z-index:-1;border-left:3px solid rgba(91,192,222,.9);border-right:3px solid transparent;border-bottom:3px solid transparent;border-top:3px solid rgba(91,192,222,.9)}
 .ribbon-vip span::after{content:"";position:absolute;right:0;top:100%;z-index:-1;border-left:3px solid transparent;border-right:3px solid rgba(91,192,222,.9);border-bottom:3px solid transparent;border-top:3px solid rgba(91,192,222,.9)}
 
-
-
-
-
 .bsw-btn{border:2px solid;overflow:hidden;position:relative;padding:10px;display:inline-block;width:200px;text-align:center;text-decoration:none!important;text-transform:uppercase;font:500 15px Roboto;margin:10px 0}.bsw-btn:hover{letter-spacing:2px}.bsw-btn:after{opacity:.4;background:#4267b2;content:"";height:155px;left:-75px;opacity:2;position:absolute;top:-50px;transform:rotate(35deg);transition:all 1s cubic-bezier(0.19,1,0.22,1);width:100px;z-index:100}.bsw-btn:hover:after{opacity:1;left:120%;-webkit-transition:all 1s cubic-bezier(0.19,1,0.22,1);transition:all 1s cubic-bezier(0.19,1,0.22,1)}
-
-
+/* Hiệu ứng 7 sắc cầu vồng cho ảnh */
+@-webkit-keyframes hue{100%{-webkit-filter:hue-rotate(360deg)}}img:hover{-webkit-animation:hue 1s linear infinite}
+/* End hiệu ứng 7 sắc cầu vồng cho ảnh */
 .post blockquote{
 margin:10px 0!important;
 border:2px solid #FF0000!important;
@@ -642,9 +637,3 @@ a#download{-webkit-transition: 0.5s;padding:10px 20px;border-radius:3px;backgrou
  .embuh span{float:none;width:100%;text-align:center} 
 .file-deskripsi{text-align:center} } 
 #blog-pager{background-color:#F2F5A9}
-
-/* Hiệu ứng 7 sắc cầu vồng cho ảnh */
-@-webkit-keyframes hue{100%{-webkit-filter:hue-rotate(360deg)}}img:hover{-webkit-animation:hue 1s linear infinite}
-/* End hiệu ứng 7 sắc cầu vồng cho ảnh */
-
-
