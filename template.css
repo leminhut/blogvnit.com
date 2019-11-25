@@ -646,48 +646,5 @@ a#download{-webkit-transition: 0.5s;padding:10px 20px;border-radius:3px;backgrou
 /* Hiệu ứng 7 sắc cầu vồng cho ảnh */
 @-webkit-keyframes hue{100%{-webkit-filter:hue-rotate(360deg)}}img:hover{-webkit-animation:hue 1s linear infinite}
 /* End hiệu ứng 7 sắc cầu vồng cho ảnh */
-/* CSS đổ bóng mờ */
-.text-do-bong-mo {
-text-align:center !important;
-color: #361dd2;
-font-size: 30px;
-text-shadow: 5px 5px 10px grey;
-font-weight: bold;} /* End CSS đổ bóng mờ */
-/* Hiệu ứng ánh sáng chạy qua text */ /* <div id='effect'></div> */
-#effect {    display: inline-block;background: #05233c -webkit-gradient(linear, left top, right top,
-from(#482fe0), to(#1bc51f), color-stop(0.5, #fff)) 0 0 no-repeat;
-color: rgba(255, 255, 255, 0.1);
-font-size: 16px;
-font-weight: bold;
-position: relative;
--webkit-animation: shine 1.5s infinite;
--webkit-background-clip: text;
--webkit-background-size: 100px;}
-@-webkit-keyframes shine {
-0% {background-position: top right;}
-100% {background-position: top left;}} /* End hiệu ứng ánh sáng chạy qua text */
-/* Chữ nhấp nháy */
-@-webkit-keyframes my {
-0% { color: blue; }
-50% { color: red; }
-100% { color: blue; }}
-@-moz-keyframes my {
-0% { color: blue; }
-50% { color: red; }
-100% { color: blue; }}
-@-o-keyframes my {
-0% { color: blue; }
-50% { color: red; }
-100% { color: blue; }}
-@keyframes my {
-0% { color: blue; }
-50% { color: red; }
-100% { color: blue; }}
-.chu-nhap-nhay {
-font-size:20px;
-font-weight:bold;
--webkit-animation: my 700ms infinite;
--moz-animation: my 700ms infinite;
--o-animation: my 700ms infinite;
-animation: my 700ms infinite;} /* End chữ nhấp nháy */
+
 
