@@ -582,7 +582,14 @@ opacity:1;
 bottom:25px;
 }
 
+
+#blog-pager{clear:both;margin:0 auto;line-height:50px;background:#FFFFFF;text-align:center;border-radius:3px;}
 #post-snippet{display:none!important}
+#blog-pager a {padding:10px 15px;display:block;color:#666;border-radius:4px;text-transform:uppercase;font:500 14px Roboto;transition:0s!important;letter-spacing: 0.3px;}
+#blog-pager a:focus {text-indent:-999999px; background: #FFFFCC url(https://lh5.googleusercontent.com/proxy/4bAJKgSJXhE1aVMmkJmOSE2GQuwAmXO58yABt59-J5wvyCx6Z4FyO-QfMOhJv1ledDFLN7PFrFejuAdq5rGy9bR5v4ZxRMItug=s0-d) no-repeat center 50%}
+.post{margin:0!important;padding:10px!important}
+
+
 
 #btn{-webkit-transition: 0.5s;
     cursor: pointer;
@@ -629,4 +636,4 @@ a#download{-webkit-transition: 0.5s;padding:10px 20px;border-radius:3px;backgrou
 #btn, a#download{width:100%;margin-bottom:10px}
  .embuh span{float:none;width:100%;text-align:center} 
 .file-deskripsi{text-align:center} } 
-
+#blog-pager{background-color:#F2F5A9}
