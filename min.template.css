@@ -583,7 +583,7 @@ bottom:25px;
 }
 
 
-#blog-pager{clear:both;margin:0 auto;line-height:50px;background:#FFFFFF;text-align:center;border-radius:3px;}
+#blog-pager {  background: #4CAF50;  border: none;  border-radius: 25px;  color: snow; // Vanilla HTML color name  cursor: pointer;  font-size: 1.25em;  letter-spacing: .1em;  outline: none;  padding: .75em 2em;  position: relative; // Required for pseudo-element positioning  text-transform: uppercase;}}
 #post-snippet{display:none!important}
 #blog-pager a {padding:10px 15px;display:block;color:#666;border-radius:4px;text-transform:uppercase;font:500 14px Roboto;transition:0s!important;letter-spacing: 0.3px;}
 #blog-pager a:focus {text-indent:-999999px; background: #FFFFCC url(https://lh5.googleusercontent.com/proxy/4bAJKgSJXhE1aVMmkJmOSE2GQuwAmXO58yABt59-J5wvyCx6Z4FyO-QfMOhJv1ledDFLN7PFrFejuAdq5rGy9bR5v4ZxRMItug=s0-d) no-repeat center 50%}
