@@ -161,22 +161,6 @@ ul.social-profile-icons li a, ul.social-profile-icons li a:hover { display: bloc
 
 .seat-bottom{margin-bottom:10px;}
 
-.PopularPosts ul{padding:0;overflow:hidden;border-top:none;margin:0;list-style:none;color:#64707a}
-.PopularPosts li,.PopularPosts li a,.PopularPosts li a img,.PopularPosts li img{margin:0;padding:0;list-style:none;border:none;background:0 0;outline:0}
-.PopularPosts ul li img{display:block;margin:5px 10px 0 0;overflow:hidden;float:left}
-.PopularPosts ul li{margin:0;padding:3px 0 6px!important;border-top:1px solid #eee;position:relative}
-.PopularPosts ul li:hover:before{opacity:1}
-.PopularPosts ul li:first-child{border-top:none}
-.PopularPosts ul li:last-child{border-bottom:none}
-.PopularPosts ul li .item-title a,.PopularPosts ul li a{font:15px Roboto,sans-serif;color:#333333;transition:all .3s ease-out 0s}
-.PopularPosts ul li a:hover{color:#2196f3}
-.PopularPosts .item-thumbnail{margin:0}
-.PopularPosts .item-title{padding-left:5px;line-height:1.2em;padding-top:5px}
-#PopularPosts1{margin-bottom:20px}
-#PopularPosts1 h3{font:bold 21px Roboto,sans-serif;color:#333333;text-align:left;margin:30px 0 20px 0;position:relative;padding:0 10px;text-transform:uppercase;border-left:5px solid #FF6501}
-#PopularPosts1 ul li .item-title a,#PopularPosts2 ul li .item-title a{font-size:15px;font-weight:500;line-height:15px}
-#PopularPosts1 ul li .item-snippet{color:#333;font-size:13px;line-height:1.6;padding:10px 0 0 5px;display:-webkit-box}
-#PopularPosts1 .item-thumbnail img{width:145px;height:85px}
 
 .showpageNum a, .showpage a, .showpagePoint {background:#f47920; color: #fff; cursor: pointer; font-size: 15px; font-weight: 600; padding: 6px 13px; text-decoration: none; display: inline-block; border-radius:4px; transition:all .5s ease-out}
 .showpageNum a:hover, .showpage a:hover, .showpagePoint {background:#FACC2E; color: #fff; text-decoration: none; }
