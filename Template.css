@@ -695,3 +695,9 @@ a#download{-webkit-transition: 0.5s;padding:10px 20px;border-radius:3px;backgrou
 .fbe-social a i.f-instagram {
     background: #833ab4
 }
+
+body {animation: fadeIn 1s;-webkit-animation:fadeIn 1s;-moz-animation:fadeIn 1s}
+@keyframes fadeIn{from{opacity:0;transform:translate(50px,0)}to{opacity:1}}
+@-webkit-keyframes fadeIn{from{opacity:0;transform:translate(50px,0)}to{opacity:1}}
+@-moz-keyframes fadeIn{from{opacity:0;transform:translate(50px,0)}to{opacity:1}}
+@-o-keyframes fadeIn{from{opacity:0;transform:translate(50px,0)}to{opacity:1}}
