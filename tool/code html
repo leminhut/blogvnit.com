@@ -1,0 +1,31 @@
+<link href="https://cdn.jsdelivr.net/gh/leminhut/blogvnit.com/tool/toolbar.css" rel="stylesheet" type="text/css"/>
+<div id='close' onclick='toggleOverlay()'><i class='fa fa-remove'></i></div>
+<div class='blogvnit_toolbar'>
+<ul>
+<li>
+<a href='javascript:callme(&#39;tel:0359181712&#39;)' title='Gọi điện'>
+<img alt='' class='attachment-full size-full' height='41' src='https://2.bp.blogspot.com/-wD0n4iMNZpk/Xcu6r08103I/AAAAAAAAWz0/GJNJEfbKBA0fMA4PZqz9olj506Z_kf68wCLcBGAsYHQ/s1600/icon-t1.png' width='41'/><br/>
+<span>Gọi điện</span>
+</a>
+</li>
+<li>
+<a href='javascript:callme(&#39;sms:0359181712&#39;)' title='Nhắn tin'>
+<img alt='' class='attachment-full size-full' height='48' src='https://1.bp.blogspot.com/-o0GM3xEoLag/Xcu6r7h-e-I/AAAAAAAAWz8/KS0KWEpxnvk3PhgWPvXClBI8Ig368-DmgCLcBGAsYHQ/s1600/icon-t2.png' width='56'/><br/>
+<span>Nhắn tin</span>
+</a>
+</li>
+<li>
+<a href='javascript:callme(&#39;https://zalo.me/starutblog&#39;)' title='Chat zalo'>
+<img alt='' class='attachment-full size-full' height='41' src='https://2.bp.blogspot.com/-EykWjo0WLRk/Xcu6r7h7niI/AAAAAAAAWz4/qcjsVc0rikYCufcSggVS_wsxOwKHZlw-wCLcBGAsYHQ/s1600/icon-t3.png' width='105'/><br/>
+<span>Chat zalo</span>
+</a>
+</li>
+<li>
+<a href='javascript:callme(&#39;https://m.me/starutblog.contact&#39;)' title='Chat facebook'>
+<img alt='' class='attachment-full size-full' height='50' src='https://1.bp.blogspot.com/-nU1-qqyupn8/Xcu6sw_U9uI/AAAAAAAAW0A/jnLCqCdytCgraJpf-6ylrwmFKpVoPoa_ACLcBGAsYHQ/s1600/icon-t4.png' width='57'/><br/>
+<span>Chat facebook</span>
+</a>
+</li>
+</ul>
+</div>
+<script>function callme(url){window.location = url;}</script>
