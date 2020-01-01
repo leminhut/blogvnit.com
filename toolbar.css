@@ -1,0 +1,57 @@
+.devvn_toolbar{
+                        display: none;
+                    }
+                    @media (max-width: 560px) {
+                        body.has_devvn_toolbar {
+                            padding-bottom: 50px;
+                        }
+
+                        .devvn_toolbar {
+                            background: #fff;
+                            display: inline-block;
+                            width: 100%;
+                            padding: 1.8vw;
+
+                            bottom: 0;
+                            left: 0;
+                            position: fixed;
+                            z-index: 99999999;
+                            height: auto;
+                            border-top: 1px solid #cbcbcb;
+                        }
+
+                        .devvn_toolbar ul {
+                            list-style: none;
+                            padding: 0;
+                            margin: 0;
+                            display: table;
+                            border-collapse: collapse;
+                            table-layout: fixed;
+                            width: 100%;
+                        }
+
+                        .devvn_toolbar ul li {
+                            text-align: center;
+                            display: table-cell;
+                            vertical-align: top;
+                        }
+
+                        .devvn_toolbar ul li a {
+                            display: inline-block;
+                            width: 100%;
+                            outline: none;
+                            text-decoration: none;
+                        }
+
+                        .devvn_toolbar ul li a span {
+                            font-family: &#39;Roboto&#39;, sans-serif;
+                            font-weight: 400;
+                            color: #333333;
+                            font-size: 3.5vw;
+                        }
+
+                        .devvn_toolbar ul li a img {
+                            height: 6vw;
+                            width: auto;
+                        }
+                    }
