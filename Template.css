@@ -535,36 +535,6 @@ bottom:25px;
 #blog-pager a:focus {text-indent:-999999px; background: #FFFFCC url(https://lh5.googleusercontent.com/proxy/4bAJKgSJXhE1aVMmkJmOSE2GQuwAmXO58yABt59-J5wvyCx6Z4FyO-QfMOhJv1ledDFLN7PFrFejuAdq5rGy9bR5v4ZxRMItug=s0-d) no-repeat center 50%}
 .post{margin:0!important;padding:10px!important}
 
-
-
-#btn{-webkit-transition: 0.5s;
-    cursor: pointer;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 3px;
-    background: #fff0;
-    color: #3295b2;
-    float: right;
-    text-transform: uppercase;
-    font-weight: 700;} 
-a#download:hover{       border-radius: 31px;
-    background: #3f4f544a;
-    color: #fff;} 
-.paling-jobo{display:block;width:60%;margin: 10px auto;border-radius:4px;font-family:'PT Sans Narrow', sans-serif} 
-.bungkus-down{    background: linear-gradient(160deg, #3492b5, #0ecf8a);
-    color: #fff;
-    padding: 10px 23px;
-    display: block;
-    border-top-right-radius: 3px;
-    border-top-left-radius: 3px;} 
-.file-info{font: 500 24px Roboto Condensed;
-    color: #fff;
-    display: inline-block;
-    line-height: 38px;
-    text-align: left;}
- .catatan-sikil{padding:10px 20px;background:#EAEBED;border-bottom-right-radius:3px;border-bottom-left-radius:3px;color:#555} 
-#download{float:right} 
-a#download{-webkit-transition: 0.5s;padding:10px 20px;border-radius:3px;background:#fff;color:#3294b3;float:right;text-transform:uppercase;font-weight:700;text-align:center} 
 .embuh span{display:inline-block;line-height: 38px;float:right} 
 .iklan-down{float:right;width:40%;padding-left:10px;margin:20px 0;text-align:right}
  .file-deskripsi{display:block}
